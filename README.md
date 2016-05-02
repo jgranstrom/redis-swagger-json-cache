@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/jgranstrom/redis-swagger-json-cache.svg?branch=master)](https://travis-ci.org/jgranstrom/redis-swagger-json-cache)
+
 # redis-swagger-json-cache
 
 Simple drop in redis cache for swagger JSON apis using express.
