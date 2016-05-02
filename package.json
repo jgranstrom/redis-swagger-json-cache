@@ -4,7 +4,8 @@
   "description": "Redis cache for swagger JSON api routes",
   "main": "index.js",
   "scripts": {
-    "test": "./node_modules/.bin/mocha --recursive ./test"
+    "test": "./node_modules/istanbul/lib/cli.js cover ./node_modules/.bin/_mocha -- --recursive ./test",
+    "coveralls": "cat ./coverage/lcov.info | ./node_modules/.bin/coveralls"
   },
   "keywords": [
     "redis",
@@ -22,6 +23,8 @@
   },
   "devDependencies": {
     "chai": "^3.5.0",
+    "coveralls": "^2.11.9",
+    "istanbul": "^0.4.3",
     "mocha": "^2.4.5",
     "proxyquire": "^1.7.4",
     "sinon": "^1.17.3",
