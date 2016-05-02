@@ -1,0 +1,27 @@
+{
+  "name": "redis-swagger-json-cache",
+  "version": "0.1.0",
+  "description": "Redis cache for swagger JSON api routes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "redis",
+    "cache",
+    "swagger",
+    "json"
+  ],
+  "author": "John Granström <granstrom.john@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "bluebird": "^3.3.5",
+    "cacheman-redis": "^1.1.2",
+    "moment": "^2.13.0",
+    "moment-timezone": "^0.5.3"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.4.5"
+  }
+}
