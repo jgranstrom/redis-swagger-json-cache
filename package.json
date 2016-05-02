@@ -1,6 +1,6 @@
 {
   "name": "redis-swagger-json-cache",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Redis cache for swagger JSON api routes",
   "main": "index.js",
   "scripts": {
