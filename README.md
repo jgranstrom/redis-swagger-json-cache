@@ -153,5 +153,4 @@ The default cache key is sufficient for most operations.
 - Will fail at startup if redis is not available
 
 ## TODO
-- Tests..
 - Implicit cache invalidation (PUT/POST/DELETE)
