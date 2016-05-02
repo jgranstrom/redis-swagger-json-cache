@@ -1,5 +1,5 @@
 [![Build Status](https://travis-ci.org/jgranstrom/redis-swagger-json-cache.svg?branch=master)](https://travis-ci.org/jgranstrom/redis-swagger-json-cache)
-[![Coverage Status](https://coveralls.io/repos/jgranstrom/redis-swagger-json-cache/badge.svg?branch=master)](https://coveralls.io/r/<account>/<repository>?branch=master)
+[![Coverage Status](https://coveralls.io/repos/jgranstrom/redis-swagger-json-cache/badge.svg?branch=master)](https://coveralls.io/r/jgranstrom/redis-swagger-json-cache?branch=master)
 
 # redis-swagger-json-cache
 
