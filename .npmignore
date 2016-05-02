@@ -2,4 +2,5 @@ test
 examples
 .gitignore
 .coveralls.yml
+.travis.yml
 coverage
