@@ -29,5 +29,9 @@
     "proxyquire": "^1.7.4",
     "sinon": "^1.17.3",
     "sinon-chai": "^2.8.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jgranstrom/redis-swagger-json-cache.git"
+  },
 }
