@@ -1,3 +1,4 @@
+'use strict';
 const DEFAULTS = require('../../lib/defaults');
 
 describe('defaults', () => {
